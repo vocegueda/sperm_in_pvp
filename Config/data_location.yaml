@@ -1,0 +1,5 @@
+names:
+  0: sperm
+path: /mnt/c/ConceivableProjects/sperm_in_pvp/Data
+train: images/train
+val: images/val

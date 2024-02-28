@@ -1,0 +1,2 @@
+cd "/mnt/c/ConceivableProjects/sperm_in_pvp/Code" 
+python train.py --batch 5 --epochs 100 --hyp "/mnt/c/ConceivableProjects/sperm_in_pvp/Config/hyps.yaml" --optimizer SGD --device cuda:0 --cfg "/mnt/c/ConceivableProjects/sperm_in_pvp/Config/yolov5l_classes_config.yaml" --data "/mnt/c/ConceivableProjects/sperm_in_pvp/Config/data_location.yaml" --imgsz 640 --weights "/mnt/c/ConceivableProjects/sperm_in_pvp/Weights/pre.pt" --cache
