@@ -1,0 +1,45 @@
+INNER_PROJECT_DIR: /mnt/c/ConceivableProjects/sperm_in_pvp
+augmented_data_names: []
+classes_config: yolov5/models/yolov5l.yaml
+code_folder: /mnt/c/ConceivableProjects/sperm_in_pvp/Code
+code_train_runs: /mnt/c/ConceivableProjects/sperm_in_pvp/Code/runs/train
+data_folder: /mnt/c/ConceivableProjects/sperm_in_pvp/Data
+data_location_yaml: /mnt/c/ConceivableProjects/sperm_in_pvp/Config/data_location.yaml
+data_yaml: yolov5/data/data_location.yaml
+destine_exp_folder: /mnt/c/ConceivableProjects/sperm_in_pvp/Data/runs/train1_results
+detects_folder: /mnt/c/ConceivableProjects/sperm_in_pvp/Data/Detects
+final_folder_names:
+- Weights
+- Launchers
+- Config
+- Data
+- Export
+hyp_yaml: yolov5/data/hyps/hyp.basic.yaml
+hyps_yaml: /mnt/c/ConceivableProjects/sperm_in_pvp/Config/hyps.yaml
+imgs_folder: /mnt/c/ConceivableProjects/sperm_in_pvp/Data/images
+imgs_train_folder: /mnt/c/ConceivableProjects/sperm_in_pvp/Data/images/train
+imgs_val_folder: /mnt/c/ConceivableProjects/sperm_in_pvp/Data/images/val
+launchers_folder: /mnt/c/ConceivableProjects/sperm_in_pvp/Launchers
+lbs_folder: /mnt/c/ConceivableProjects/sperm_in_pvp/Data/labels
+lbs_train_folder: /mnt/c/ConceivableProjects/sperm_in_pvp/Data/labels/train
+lbs_val_folder: /mnt/c/ConceivableProjects/sperm_in_pvp/Data/labels/val
+new_weights: /mnt/c/ConceivableProjects/sperm_in_pvp/Weights/best.pt
+params_yaml_dir: params.yaml
+pre_weights: /mnt/c/ConceivableProjects/sperm_in_pvp/Weights/pre.pt
+runs_directory: /mnt/c/ConceivableProjects/sperm_in_pvp/Data/runs
+train_bg:
+- 0003_clip_frame0-00-03.00.jpg
+- 0003_clip_frame0-00-04.00.jpg
+- 0003_clip_frame0-00-38.00.jpg
+- 0004_clip_frame0-00-14.00.jpg
+- 0004_clip_frame0-01-23.00.jpg
+- 0004_clip_frame0-01-24.00.jpg
+train_img: []
+train_launcher: /mnt/c/ConceivableProjects/sperm_in_pvp/Launchers/train.sh
+val_bg:
+- 0004_clip_frame0-01-25.00.jpg
+val_img: []
+weights_folder: /mnt/c/ConceivableProjects/sperm_in_pvp/Weights
+y_folder_path: yolov5
+yamls_folder: /mnt/c/ConceivableProjects/sperm_in_pvp/Config
+yolov5l_classes_config_yaml: /mnt/c/ConceivableProjects/sperm_in_pvp/Config/yolov5l_classes_config.yaml
