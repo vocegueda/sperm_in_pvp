@@ -1,0 +1,48 @@
+1-PATHS:
+  BACKGROUND_DIR: /mnt/c/ConceivableProjects/background
+  DETECT_DIR: d
+  PROJECT_DIR: /mnt/c/ConceivableProjects/
+  VAL_DATA: d
+  WEIGHTS_DIR: /mnt/c/ConceivableProjects/weights/sperm_in_pvp.pt
+2-PROJECT_CONFIG:
+  BATCH_SIZE: 5
+  BG_DATA_DISTRIBUTION: 0.9
+  CLASS_NAMES:
+    0: sperm
+  CROSS_VAL: false
+  DETECT: false
+  EPOCHS: 1
+  EXPORT: false
+  PROJECT_NAME: sperm_in_pvp
+  TRAIN: true
+  TRAIN_DATA_DISTRIBUTION: 0.8
+  VALIDATE_OLD_MODEL: false
+3-HYPS:
+  anchor_t: 2.0
+  box: 0.05
+  cls: 0.5
+  cls_pw: 5
+  copy_paste: 0.0
+  degrees: 15
+  fl_gamma: 0.0
+  fliplr: 0.3
+  flipud: 0.3
+  hsv_h: 0.1
+  hsv_s: 0.25
+  hsv_v: 0.25
+  iou_t: 0.4
+  lr0: 0.001
+  lrf: 0.01
+  mixup: 0.0
+  momentum: 0.937
+  mosaic: 1.0
+  obj: 0.7
+  obj_pw: 5
+  perspective: 0.0
+  scale: 0.2
+  shear: 0
+  translate: 0.0
+  warmup_bias_lr: 0.1
+  warmup_epochs: 3.0
+  warmup_momentum: 0.8
+  weight_decay: 0.0005

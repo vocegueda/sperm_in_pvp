@@ -1,0 +1,1684 @@
+outs:
+- hash: md5
+  path: Data
+  files:
+  - relpath: data.zip
+    md5: 6929921d422c79029196b798bb7f6377
+    size: 3971339
+    cloud:
+      storage:
+        etag: 08fbb8a9928acf84031001
+        version_id: '1709159188421755'
+  - relpath: images/train/0003_clip_frame0-00-00.00.jpg
+    md5: 32179ca61947a7de1d26b4fd3e9dc44c
+    size: 26925
+    cloud:
+      storage:
+        etag: 089cc4f7928acf84031001
+        version_id: '1709159189701148'
+  - relpath: images/train/0003_clip_frame0-00-02.00.jpg
+    md5: eed09481c481315ac817a237e1ca660a
+    size: 31362
+    cloud:
+      storage:
+        etag: 08d28f80938acf84031001
+        version_id: '1709159189841874'
+  - relpath: images/train/0003_clip_frame0-00-03.00.jpg
+    md5: ae45b76c442b2b90e216e29b8bf82569
+    size: 30423
+    cloud:
+      storage:
+        etag: 088ab287938acf84031001
+        version_id: '1709159189960970'
+  - relpath: images/train/0003_clip_frame0-00-04.00.jpg
+    md5: d4c994ac2a0d5949f9b5804554d3bdb2
+    size: 30512
+    cloud:
+      storage:
+        etag: 08fc95fc928acf84031001
+        version_id: '1709159189777148'
+  - relpath: images/train/0003_clip_frame0-00-08.01.jpg
+    md5: 855c77b9809d9c951609d4c8921fd557
+    size: 36672
+    cloud:
+      storage:
+        etag: 08909688938acf84031001
+        version_id: '1709159189973776'
+  - relpath: images/train/0003_clip_frame0-00-09.01.jpg
+    md5: fdd1f4924f59cf937f80ab65c9f935f1
+    size: 34834
+    cloud:
+      storage:
+        etag: 08ffbef8928acf84031001
+        version_id: '1709159189716863'
+  - relpath: images/train/0003_clip_frame0-00-10.01.jpg
+    md5: 6a3d4962d4de641d0ae23fe9d4b56281
+    size: 32212
+    cloud:
+      storage:
+        etag: 089ecefc928acf84031001
+        version_id: '1709159189784350'
+  - relpath: images/train/0003_clip_frame0-00-11.01.jpg
+    md5: 152a1331540d6d41b83423ab6c586039
+    size: 34260
+    cloud:
+      storage:
+        etag: 08e196fc928acf84031001
+        version_id: '1709159189777249'
+  - relpath: images/train/0003_clip_frame0-00-15.02.jpg
+    md5: 9a0b0e25bc96cc4ab33ecc229c1deb08
+    size: 33546
+    cloud:
+      storage:
+        etag: 08ed9187938acf84031001
+        version_id: '1709159189956845'
+  - relpath: images/train/0003_clip_frame0-00-17.02.jpg
+    md5: 3dee897cc43499f1956c3faf3b6b2261
+    size: 35686
+    cloud:
+      storage:
+        etag: 08fa8581938acf84031001
+        version_id: '1709159189857018'
+  - relpath: images/train/0003_clip_frame0-00-18.02.jpg
+    md5: c156ec8ac6fa72dc3185f37878e13963
+    size: 33368
+    cloud:
+      storage:
+        etag: 08e1e5fc928acf84031001
+        version_id: '1709159189787361'
+  - relpath: images/train/0003_clip_frame0-00-19.02.jpg
+    md5: d5d107bb992ec3f45d5fd812eb61dda8
+    size: 35343
+    cloud:
+      storage:
+        etag: 08b5c383938acf84031001
+        version_id: '1709159189897653'
+  - relpath: images/train/0003_clip_frame0-00-20.02.jpg
+    md5: b1371c0f133c81d43ec11211d27f70de
+    size: 37150
+    cloud:
+      storage:
+        etag: 08d6fefa928acf84031001
+        version_id: '1709159189757782'
+  - relpath: images/train/0003_clip_frame0-00-23.02.jpg
+    md5: 5e11a56743ca2b3981cdecd3800fa256
+    size: 35678
+    cloud:
+      storage:
+        etag: 088fe880938acf84031001
+        version_id: '1709159189853199'
+  - relpath: images/train/0003_clip_frame0-00-29.03.jpg
+    md5: d9986d8f87bd4f2eeba8267fe2140048
+    size: 35165
+    cloud:
+      storage:
+        etag: 08a38588938acf84031001
+        version_id: '1709159189971619'
+  - relpath: images/train/0003_clip_frame0-00-36.00.jpg
+    md5: 6605a0ed5c7fd20c59c2c2e6c6c42073
+    size: 35089
+    cloud:
+      storage:
+        etag: 08f2a0f8928acf84031001
+        version_id: '1709159189713010'
+  - relpath: images/train/0003_clip_frame0-00-38.00.jpg
+    md5: b9c0f4de2b2a449a8b5b8a83afe5d13d
+    size: 32849
+    cloud:
+      storage:
+        etag: 08bec4ff928acf84031001
+        version_id: '1709159189832254'
+  - relpath: images/train/0003_clip_frame0-00-46.01.jpg
+    md5: 8c5412eb66897e3061ce510122bde5e7
+    size: 32738
+    cloud:
+      storage:
+        etag: 08b6daf8928acf84031001
+        version_id: '1709159189720374'
+  - relpath: images/train/0003_clip_frame0-00-53.02.jpg
+    md5: 8ee4f2d603d096db34018594680bc511
+    size: 25613
+    cloud:
+      storage:
+        etag: 0898e7fa928acf84031001
+        version_id: '1709159189754776'
+  - relpath: images/train/0003_clip_frame0-00-56.02.jpg
+    md5: a032b803a8726e4a4147418ef0ad60bd
+    size: 25437
+    cloud:
+      storage:
+        etag: 08c9c8f5928acf84031001
+        version_id: '1709159189668937'
+  - relpath: images/train/0003_clip_frame0-00-57.02.jpg
+    md5: 07ab2dbed97fae14fea9a3a44012c073
+    size: 25034
+    cloud:
+      storage:
+        etag: 08abc6f7928acf84031001
+        version_id: '1709159189701419'
+  - relpath: images/train/0003_clip_frame0-00-58.02.jpg
+    md5: bc10d601110411712e69897786d8d80a
+    size: 30338
+    cloud:
+      storage:
+        etag: 08b5d682938acf84031001
+        version_id: '1709159189883701'
+  - relpath: images/train/0003_clip_frame0-00-59.03.jpg
+    md5: 1181561d4c0cfc1e467f0d7ff45b7e4e
+    size: 32714
+    cloud:
+      storage:
+        etag: 08d18e8a938acf84031001
+        version_id: '1709159190005585'
+  - relpath: images/train/0004_clip_frame0-00-14.00.jpg
+    md5: 7b4e220720a63a754f3522ff330120c5
+    size: 8971
+    cloud:
+      storage:
+        etag: 08cfd483938acf84031001
+        version_id: '1709159189899855'
+  - relpath: images/train/0004_clip_frame0-01-23.00.jpg
+    md5: d793dda676243373f52e56874528ab20
+    size: 26205
+    cloud:
+      storage:
+        etag: 089ab0f8928acf84031001
+        version_id: '1709159189714970'
+  - relpath: images/train/0004_clip_frame0-01-24.00.jpg
+    md5: c543a5652027f33e2c68dd8d050f0db2
+    size: 27224
+    cloud:
+      storage:
+        etag: 0893c7ff928acf84031001
+        version_id: '1709159189832595'
+  - relpath: images/train/0004_clip_frame0-01-29.00.jpg
+    md5: a1d8dfa201a142a628161f6d55eb97ec
+    size: 37398
+    cloud:
+      storage:
+        etag: 088e90f8928acf84031001
+        version_id: '1709159189710862'
+  - relpath: images/train/0005_clip_frame0-00-00.00.jpg
+    md5: 729ad7124046a7a976efc36e32497015
+    size: 27206
+    cloud:
+      storage:
+        etag: 08b3e08a938acf84031001
+        version_id: '1709159190016051'
+  - relpath: images/train/0005_clip_frame0-00-01.00.jpg
+    md5: 95e076548568fd5424a8594053442ed5
+    size: 33791
+    cloud:
+      storage:
+        etag: 08b998f7928acf84031001
+        version_id: '1709159189695545'
+  - relpath: images/train/0005_clip_frame0-00-03.00.jpg
+    md5: 7a25000096d162a42465572758ceb01c
+    size: 34576
+    cloud:
+      storage:
+        etag: 08f5e885938acf84031001
+        version_id: '1709159189935221'
+  - relpath: images/train/0005_clip_frame0-00-05.00.jpg
+    md5: ba6995239646d226bf96dafcb36f746a
+    size: 33453
+    cloud:
+      storage:
+        etag: 089ddafd928acf84031001
+        version_id: '1709159189802269'
+  - relpath: images/train/0005_clip_frame0-00-07.00.jpg
+    md5: 753e90229fa4cd2f442196abc6ee4ee6
+    size: 37593
+    cloud:
+      storage:
+        etag: 08aca880938acf84031001
+        version_id: '1709159189845036'
+  - relpath: images/train/0005_clip_frame0-00-08.00.jpg
+    md5: ed7df363d6908308b00c24beda677f6e
+    size: 37321
+    cloud:
+      storage:
+        etag: 08a38ffc928acf84031001
+        version_id: '1709159189776291'
+  - relpath: images/train/0005_clip_frame0-00-11.00.jpg
+    md5: 32c5b6ceb1c9d71d61eac172ab3511bf
+    size: 36192
+    cloud:
+      storage:
+        etag: 08caab80938acf84031001
+        version_id: '1709159189845450'
+  - relpath: images/train/0005_clip_frame0-00-12.00.jpg
+    md5: 9eb291f77c197973e04cee2a9573dda6
+    size: 36789
+    cloud:
+      storage:
+        etag: 08c5a582938acf84031001
+        version_id: '1709159189877445'
+  - relpath: images/train/0005_clip_frame0-00-14.00.jpg
+    md5: 27fde0ab444bd3e8a354316f7589b579
+    size: 36187
+    cloud:
+      storage:
+        etag: 08e5b280938acf84031001
+        version_id: '1709159189846373'
+  - relpath: images/train/0005_clip_frame0-00-15.00.jpg
+    md5: 92e26106d76430106efc34ec058f2be1
+    size: 35137
+    cloud:
+      storage:
+        etag: 08afd889938acf84031001
+        version_id: '1709159189998639'
+  - relpath: images/train/0005_clip_frame0-00-16.00.jpg
+    md5: 1283b752ad04c361ac6f9b5f781a4e4a
+    size: 33856
+    cloud:
+      storage:
+        etag: 08f5fffc928acf84031001
+        version_id: '1709159189790709'
+  - relpath: images/train/0005_clip_frame0-00-17.00.jpg
+    md5: 737b905e6ee1458ca0c093f6ad426741
+    size: 33751
+    cloud:
+      storage:
+        etag: 08ced288938acf84031001
+        version_id: '1709159189981518'
+  - relpath: images/train/0005_clip_frame0-00-19.00.jpg
+    md5: 3b16378ce72dde6017b1b27a6dff70a5
+    size: 35833
+    cloud:
+      storage:
+        etag: 08a7eefb928acf84031001
+        version_id: '1709159189772071'
+  - relpath: images/train/0005_clip_frame0-00-20.00.jpg
+    md5: fd66f3cb2cb65c77d2084be77d806c49
+    size: 35456
+    cloud:
+      storage:
+        etag: 0880d986938acf84031001
+        version_id: '1709159189949568'
+  - relpath: images/train/0005_clip_frame0-00-25.00.jpg
+    md5: 9e960febafab703cc4cecdef3bd7b37f
+    size: 34975
+    cloud:
+      storage:
+        etag: 08868bfa928acf84031001
+        version_id: '1709159189742982'
+  - relpath: images/train/0005_clip_frame0-00-26.00.jpg
+    md5: 6b9fceff1455c89f24a389f619194ff6
+    size: 31022
+    cloud:
+      storage:
+        etag: 088ecbfd928acf84031001
+        version_id: '1709159189800334'
+  - relpath: images/train/0005_clip_frame0-00-27.00.jpg
+    md5: 4dd962893be639a08d9267604f5712cc
+    size: 30606
+    cloud:
+      storage:
+        etag: 08c888f9928acf84031001
+        version_id: '1709159189726280'
+  - relpath: images/train/0005_clip_frame0-00-28.00.jpg
+    md5: a4d1cf4b627c6e4a5354275e439a9990
+    size: 35032
+    cloud:
+      storage:
+        etag: 08e8e680938acf84031001
+        version_id: '1709159189853032'
+  - relpath: images/train/0005_clip_frame0-00-29.00.jpg
+    md5: ded3332c7d5f7f60b9a6978cd37001b0
+    size: 31829
+    cloud:
+      storage:
+        etag: 08a3c18c938acf84031001
+        version_id: '1709159190044835'
+  - relpath: images/train/0010_clip_frame0-00-00.00.jpg
+    md5: 0e98c91bbde9c184540c01c816c9f6d3
+    size: 24018
+    cloud:
+      storage:
+        etag: 08e68afc928acf84031001
+        version_id: '1709159189775718'
+  - relpath: images/train/0010_clip_frame0-00-01.00.jpg
+    md5: c77d2b3ad0e23aa97c83346b51da12eb
+    size: 29734
+    cloud:
+      storage:
+        etag: 08c2def5928acf84031001
+        version_id: '1709159189671746'
+  - relpath: images/train/0010_clip_frame0-00-02.00.jpg
+    md5: 8fe8166defe8022dd71b49bbbe6530a1
+    size: 31423
+    cloud:
+      storage:
+        etag: 08dfecfc928acf84031001
+        version_id: '1709159189788255'
+  - relpath: images/train/0010_clip_frame0-00-03.00.jpg
+    md5: 0b5e34e3fbe1c137594660fa77ae7072
+    size: 27511
+    cloud:
+      storage:
+        etag: 08e2c4f7928acf84031001
+        version_id: '1709159189701218'
+  - relpath: images/train/0010_clip_frame0-00-04.00.jpg
+    md5: 42de0bb93f7cf35e0b898c734fb3c30c
+    size: 28665
+    cloud:
+      storage:
+        etag: 08c0f9f4928acf84031001
+        version_id: '1709159189658816'
+  - relpath: images/train/0010_clip_frame0-00-05.51.jpg
+    md5: b082077767ea4c677d8f85136afba0ec
+    size: 29127
+    cloud:
+      storage:
+        etag: 088bd486938acf84031001
+        version_id: '1709159189948939'
+  - relpath: images/train/0010_clip_frame0-00-06.01.jpg
+    md5: 3fef0ba70b272fe9023645bfd4d0a126
+    size: 30104
+    cloud:
+      storage:
+        etag: 0882a380938acf84031001
+        version_id: '1709159189844354'
+  - relpath: images/train/0010_clip_frame0-00-06.51.jpg
+    md5: 9ceac5b8f3b422f9dd53a2247c5ef424
+    size: 29829
+    cloud:
+      storage:
+        etag: 08e081f8928acf84031001
+        version_id: '1709159189709024'
+  - relpath: images/train/0010_clip_frame0-00-07.51.jpg
+    md5: ee22f5e8d80f6862ca823dd61c147b59
+    size: 30476
+    cloud:
+      storage:
+        etag: 08b3cbf8928acf84031001
+        version_id: '1709159189718451'
+  - relpath: images/train/0016_clip_frame0-00-02.53.jpg
+    md5: ed1397179bfcc1462dc87bd06a79d88c
+    size: 35390
+    cloud:
+      storage:
+        etag: 08f796fd928acf84031001
+        version_id: '1709159189793655'
+  - relpath: images/train/0016_clip_frame0-00-03.53.jpg
+    md5: da14620d57d34e595e8e8645beed6e41
+    size: 36858
+    cloud:
+      storage:
+        etag: 08dacafc928acf84031001
+        version_id: '1709159189783898'
+  - relpath: images/train/0016_clip_frame0-00-04.00.jpg
+    md5: a4b83c3d0abdb45265cef77fe02f3f9a
+    size: 35298
+    cloud:
+      storage:
+        etag: 08bfe3fb928acf84031001
+        version_id: '1709159189770687'
+  - relpath: images/train/0016_clip_frame0-00-04.53.jpg
+    md5: ceb77e75c2335821e203b16c6f8f1b75
+    size: 35163
+    cloud:
+      storage:
+        etag: 08eba6f8928acf84031001
+        version_id: '1709159189713771'
+  - relpath: images/train/0025_clip_frame0-00-00.00.jpg
+    md5: 0e39837cca6ff1b0e440802431877301
+    size: 22560
+    cloud:
+      storage:
+        etag: 08adb8f5928acf84031001
+        version_id: '1709159189666861'
+  - relpath: images/train/0025_clip_frame0-00-00.50.jpg
+    md5: 4cde2322adff467593a92764f32ce06b
+    size: 30746
+    cloud:
+      storage:
+        etag: 0896fb87938acf84031001
+        version_id: '1709159189970326'
+  - relpath: images/train/0025_clip_frame0-00-01.00.jpg
+    md5: 4a55790c7f23bf14cf49d1afd16ae88c
+    size: 29000
+    cloud:
+      storage:
+        etag: 08d0d4fb928acf84031001
+        version_id: '1709159189768784'
+  - relpath: images/train/0025_clip_frame0-00-04.00.jpg
+    md5: 844260ff67e304e6ec6a748d737dd19b
+    size: 30736
+    cloud:
+      storage:
+        etag: 08a0dbf7928acf84031001
+        version_id: '1709159189704096'
+  - relpath: images/train/0035_clip_frame0-00-00.00.jpg
+    md5: e211c226fccba43938c1b461a03426c1
+    size: 22794
+    cloud:
+      storage:
+        etag: 08dcacf8928acf84031001
+        version_id: '1709159189714524'
+  - relpath: images/train/0035_clip_frame0-00-00.53.jpg
+    md5: 8e62afa3de7bc9bd680f3b1bf1f830da
+    size: 28280
+    cloud:
+      storage:
+        etag: 08e6b284938acf84031001
+        version_id: '1709159189911910'
+  - relpath: images/train/0035_clip_frame0-00-02.00.jpg
+    md5: 0e01ad44564610f308761068d510391a
+    size: 31411
+    cloud:
+      storage:
+        etag: 08c7f987938acf84031001
+        version_id: '1709159189970119'
+  - relpath: images/train/0035_clip_frame0-00-03.00.jpg
+    md5: 2bfd9b391845b5e493c0b86948b45ec2
+    size: 32239
+    cloud:
+      storage:
+        etag: 08afd2f7928acf84031001
+        version_id: '1709159189702959'
+  - relpath: images/train/0037_clip_frame0-00-00.00.jpg
+    md5: 0d9f56512a13ddab39113ba346a59692
+    size: 25856
+    cloud:
+      storage:
+        etag: 08c7ad86938acf84031001
+        version_id: '1709159189944007'
+  - relpath: images/train/0037_clip_frame0-00-03.53.jpg
+    md5: 790f14cd28c7d62b46a375f5339a6722
+    size: 35390
+    cloud:
+      storage:
+        etag: 08edcbf7928acf84031001
+        version_id: '1709159189702125'
+  - relpath: images/train/0037_clip_frame0-00-04.53.jpg
+    md5: f2f6bd53d99fc5e9cf4268b94828e997
+    size: 30698
+    cloud:
+      storage:
+        etag: 08fbe9e2918acf84031001
+        version_id: '1709159187264763'
+  - relpath: images/train/0037_clip_frame0-00-05.00.jpg
+    md5: 2608dfcc33f882032d8f0668ce0ee31b
+    size: 31389
+    cloud:
+      storage:
+        etag: 0896a586938acf84031001
+        version_id: '1709159189942934'
+  - relpath: images/train/0037_clip_frame0-00-05.53.jpg
+    md5: e4965a074e91a2ea4b3112ac99174d9b
+    size: 31474
+    cloud:
+      storage:
+        etag: 0882a180938acf84031001
+        version_id: '1709159189844098'
+  - relpath: images/train/0037_clip_frame0-00-06.00.jpg
+    md5: a63b7fec2de13967c9fd63911208e2c1
+    size: 32232
+    cloud:
+      storage:
+        etag: 08ccfc83938acf84031001
+        version_id: '1709159189904972'
+  - relpath: images/train/0037_clip_frame0-00-06.53.jpg
+    md5: a6defb17e4d26604c3b4b7c4080008fd
+    size: 31764
+    cloud:
+      storage:
+        etag: 08bfe3ff928acf84031001
+        version_id: '1709159189836223'
+  - relpath: images/train/0037_clip_frame0-00-07.00.jpg
+    md5: af2065113efb6a22ed0515d26213115e
+    size: 31705
+    cloud:
+      storage:
+        etag: 088be985938acf84031001
+        version_id: '1709159189935243'
+  - relpath: images/train/0037_clip_frame0-00-07.53.jpg
+    md5: c7ca78eef7a362d9d5df48d7a2ab0677
+    size: 30820
+    cloud:
+      storage:
+        etag: 08f3d7fc928acf84031001
+        version_id: '1709159189785587'
+  - relpath: images/train/0037_clip_frame0-00-08.00.jpg
+    md5: c1e23abd942924d66aa6ec6e844ba8c3
+    size: 32397
+    cloud:
+      storage:
+        etag: 089ca4fb928acf84031001
+        version_id: '1709159189762588'
+  - relpath: images/train/0037_clip_frame0-00-08.53.jpg
+    md5: b3ad871ded3868b9694498c0cb01ec17
+    size: 34078
+    cloud:
+      storage:
+        etag: 0880def9928acf84031001
+        version_id: '1709159189737216'
+  - relpath: images/train/0037_clip_frame0-00-09.00.jpg
+    md5: 2942512505523495621a1afc618f5b20
+    size: 35547
+    cloud:
+      storage:
+        etag: 08c6dc86938acf84031001
+        version_id: '1709159189950022'
+  - relpath: images/train/0113_clip_frame0-00-00.00.jpg
+    md5: c5b9bf40d42f9b071bdc7ecac5192686
+    size: 30594
+    cloud:
+      storage:
+        etag: 08fba6fc928acf84031001
+        version_id: '1709159189779323'
+  - relpath: images/train/0113_clip_frame0-00-00.53.jpg
+    md5: 052658acad43979a957f217f2e30806e
+    size: 36456
+    cloud:
+      storage:
+        etag: 0881a1f9928acf84031001
+        version_id: '1709159189729409'
+  - relpath: images/train/0113_clip_frame0-00-01.00.jpg
+    md5: 4edc12247ce885d4648c22af7dedd84f
+    size: 38954
+    cloud:
+      storage:
+        etag: 08b396fa928acf84031001
+        version_id: '1709159189744435'
+  - relpath: images/train/0113_clip_frame0-00-04.53.jpg
+    md5: 8a96f70a493cad9878aa7574940703e2
+    size: 40079
+    cloud:
+      storage:
+        etag: 08d5e0f8928acf84031001
+        version_id: '1709159189721173'
+  - relpath: images/train/0126_clip_frame0-00-03.50.jpg
+    md5: 6d676187d55f4334e7e37423181183e5
+    size: 35290
+    cloud:
+      storage:
+        etag: 08fea0f9928acf84031001
+        version_id: '1709159189729406'
+  - relpath: images/train/0126_clip_frame0-00-04.00.jpg
+    md5: 463b4abcc35332f915955380d4086b91
+    size: 34953
+    cloud:
+      storage:
+        etag: 08999cfe928acf84031001
+        version_id: '1709159189810713'
+  - relpath: images/train/0126_clip_frame0-00-04.50.jpg
+    md5: 8c6f287017105d0a42ee2421928d5adf
+    size: 33930
+    cloud:
+      storage:
+        etag: 08b8e3fc928acf84031001
+        version_id: '1709159189787064'
+  - relpath: images/val/0003_clip_frame0-00-01.00.jpg
+    md5: f6e387f38fd843475e88a0b3fe042c4a
+    size: 31680
+    cloud:
+      storage:
+        etag: 0899d9ed928acf84031001
+        version_id: '1709159189539993'
+  - relpath: images/val/0003_clip_frame0-00-12.01.jpg
+    md5: 55c6e1bd4976b89075b7785d0b6d1ca4
+    size: 36644
+    cloud:
+      storage:
+        etag: 0899a0ef928acf84031001
+        version_id: '1709159189565465'
+  - relpath: images/val/0003_clip_frame0-00-13.01.jpg
+    md5: 5e818e657e2a2063262cc58c33110001
+    size: 32245
+    cloud:
+      storage:
+        etag: 08f4e0ed928acf84031001
+        version_id: '1709159189540980'
+  - relpath: images/val/0003_clip_frame0-00-14.01.jpg
+    md5: 8993241006bde2d96a7ac46d4f089bde
+    size: 34836
+    cloud:
+      storage:
+        etag: 08d794ee928acf84031001
+        version_id: '1709159189547607'
+  - relpath: images/val/0003_clip_frame0-00-28.03.jpg
+    md5: c47df7a05354a64a0501941dc7e28e4d
+    size: 34527
+    cloud:
+      storage:
+        etag: 08cbe7ed928acf84031001
+        version_id: '1709159189541835'
+  - relpath: images/val/0003_clip_frame0-00-54.02.jpg
+    md5: 718e1f65b5d47fb763d4c335daa1ff3c
+    size: 25802
+    cloud:
+      storage:
+        etag: 08da95ee928acf84031001
+        version_id: '1709159189547738'
+  - relpath: images/val/0004_clip_frame0-01-25.00.jpg
+    md5: 8419644cc15e80b3638eb1145d65112f
+    size: 28545
+    cloud:
+      storage:
+        etag: 08ccc2f2928acf84031001
+        version_id: '1709159189619020'
+  - relpath: images/val/0004_clip_frame0-01-28.00.jpg
+    md5: c39b4390ec8b1516f375ddb4bfe583fc
+    size: 37862
+    cloud:
+      storage:
+        etag: 08e985ee928acf84031001
+        version_id: '1709159189545705'
+  - relpath: images/val/0005_clip_frame0-00-02.00.jpg
+    md5: f71c7a7c962282505a78e03a2c4687a1
+    size: 34620
+    cloud:
+      storage:
+        etag: 08f985f2928acf84031001
+        version_id: '1709159189611257'
+  - relpath: images/val/0005_clip_frame0-00-04.00.jpg
+    md5: 85cd08889c17015b5b6ccca2bd37699c
+    size: 32211
+    cloud:
+      storage:
+        etag: 08dde7ed928acf84031001
+        version_id: '1709159189541853'
+  - relpath: images/val/0005_clip_frame0-00-06.00.jpg
+    md5: 57659d41c3d12fd9f6149ea2dbf5b2d0
+    size: 36118
+    cloud:
+      storage:
+        etag: 089ffaf1928acf84031001
+        version_id: '1709159189609759'
+  - relpath: images/val/0005_clip_frame0-00-09.00.jpg
+    md5: 1d586426b69da92c8efd9cb1c0100f33
+    size: 37878
+    cloud:
+      storage:
+        etag: 08aab0f4928acf84031001
+        version_id: '1709159189649450'
+  - relpath: images/val/0005_clip_frame0-00-10.00.jpg
+    md5: 83ccac73d8b6663cff9ab04399c787b5
+    size: 38178
+    cloud:
+      storage:
+        etag: 08e2f2ed928acf84031001
+        version_id: '1709159189543266'
+  - relpath: images/val/0005_clip_frame0-00-13.00.jpg
+    md5: 47ca5e2164b3eba6c7558240dec0f9c6
+    size: 35177
+    cloud:
+      storage:
+        etag: 08d293f2928acf84031001
+        version_id: '1709159189613010'
+  - relpath: images/val/0005_clip_frame0-00-18.00.jpg
+    md5: c8fa80b6ce17b4a50c1e9764339cd168
+    size: 35355
+    cloud:
+      storage:
+        etag: 08c7aaf4928acf84031001
+        version_id: '1709159189648711'
+  - relpath: images/val/0005_clip_frame0-00-21.00.jpg
+    md5: f6d7cfa89c328d2138dfd39304e0f258
+    size: 35275
+    cloud:
+      storage:
+        etag: 088ec0ef928acf84031001
+        version_id: '1709159189569550'
+  - relpath: images/val/0005_clip_frame0-00-22.00.jpg
+    md5: 47032e669a7cf25b03c84b7709db2a8f
+    size: 35303
+    cloud:
+      storage:
+        etag: 08d9faec928acf84031001
+        version_id: '1709159189527897'
+  - relpath: images/val/0005_clip_frame0-00-23.00.jpg
+    md5: a4c4aef787dd0332e86f6e88f5e13ea2
+    size: 35317
+    cloud:
+      storage:
+        etag: 08f7eaf8928acf84031001
+        version_id: '1709159189722487'
+  - relpath: images/val/0005_clip_frame0-00-24.00.jpg
+    md5: 6cbb8782294c425b5d948034fb269977
+    size: 35694
+    cloud:
+      storage:
+        etag: 08e28ef0928acf84031001
+        version_id: '1709159189579618'
+  - relpath: images/val/0010_clip_frame0-00-00.50.jpg
+    md5: 0daf9729f346af45aa737e3178624b73
+    size: 29210
+    cloud:
+      storage:
+        etag: 08c9c8ed928acf84031001
+        version_id: '1709159189537865'
+  - relpath: images/val/0010_clip_frame0-00-01.50.jpg
+    md5: 9cb504046a18745e9f1d7ab033dcc141
+    size: 30415
+    cloud:
+      storage:
+        etag: 08b7bef1928acf84031001
+        version_id: '1709159189602103'
+  - relpath: images/val/0010_clip_frame0-00-02.50.jpg
+    md5: 36775b942829301338086c01c1551e9b
+    size: 28503
+    cloud:
+      storage:
+        etag: 08e6aeed928acf84031001
+        version_id: '1709159189534566'
+  - relpath: images/val/0010_clip_frame0-00-03.50.jpg
+    md5: 98a06c085bb15336f4b68c2a78e85167
+    size: 27126
+    cloud:
+      storage:
+        etag: 08dda5f1928acf84031001
+        version_id: '1709159189598941'
+  - relpath: images/val/0010_clip_frame0-00-04.50.jpg
+    md5: cb4e521c4a278a4f4df9b53c2b71670e
+    size: 28834
+    cloud:
+      storage:
+        etag: 08ec9df3928acf84031001
+        version_id: '1709159189630700'
+  - relpath: images/val/0010_clip_frame0-00-05.00.jpg
+    md5: 8cc338fb4aac66fa4d02a78bf1f20d3f
+    size: 28539
+    cloud:
+      storage:
+        etag: 08abe8f3928acf84031001
+        version_id: '1709159189640235'
+  - relpath: images/val/0010_clip_frame0-00-07.01.jpg
+    md5: 7be2e84debf0810cb8c5a34778cf1176
+    size: 29243
+    cloud:
+      storage:
+        etag: 0896d6ed928acf84031001
+        version_id: '1709159189539606'
+  - relpath: images/val/0010_clip_frame0-00-08.01.jpg
+    md5: 2e64e17d6c3421be2d144464b77ac661
+    size: 29407
+    cloud:
+      storage:
+        etag: 08e780f3928acf84031001
+        version_id: '1709159189626983'
+  - relpath: images/val/0016_clip_frame0-00-03.00.jpg
+    md5: 7f0e22a5cd1a3d83cca10e817edb68fa
+    size: 36131
+    cloud:
+      storage:
+        etag: 08edf1ed928acf84031001
+        version_id: '1709159189543149'
+  - relpath: images/val/0016_clip_frame0-00-05.00.jpg
+    md5: a4d22e0d204847350a4f5499f83267a4
+    size: 32291
+    cloud:
+      storage:
+        etag: 08abf2f2928acf84031001
+        version_id: '1709159189625131'
+  - relpath: images/val/0025_clip_frame0-00-04.50.jpg
+    md5: fa5adeafd96c99df96e5dc2618f6d0e2
+    size: 31030
+    cloud:
+      storage:
+        etag: 08e180ed928acf84031001
+        version_id: '1709159189528673'
+  - relpath: images/val/0035_clip_frame0-00-01.00.jpg
+    md5: 574790beaf4e55fcadab1cee1a6846a3
+    size: 30983
+    cloud:
+      storage:
+        etag: 0896b0ed928acf84031001
+        version_id: '1709159189534742'
+  - relpath: images/val/0035_clip_frame0-00-01.53.jpg
+    md5: dfdd4d5981514b71b799fa12e7967f34
+    size: 31385
+    cloud:
+      storage:
+        etag: 0897f7f2928acf84031001
+        version_id: '1709159189625751'
+  - relpath: images/val/0035_clip_frame0-00-02.53.jpg
+    md5: dc1f58825bdb50e684e26d53f2c516a6
+    size: 30998
+    cloud:
+      storage:
+        etag: 08f2ffec928acf84031001
+        version_id: '1709159189528562'
+  - relpath: images/val/0035_clip_frame0-00-09.53.jpg
+    md5: 2b6005b5a8f1bfd50702416fb571723d
+    size: 31757
+    cloud:
+      storage:
+        etag: 08f0b0ed928acf84031001
+        version_id: '1709159189534832'
+  - relpath: images/val/0113_clip_frame0-00-01.53.jpg
+    md5: 1d715f9b751585ba0b76850e961bc17e
+    size: 39594
+    cloud:
+      storage:
+        etag: 08bed0f0928acf84031001
+        version_id: '1709159189588030'
+  - relpath: images/val/0126_clip_frame0-00-05.51.jpg
+    md5: fd82a535d662abe4ff24c5e736913b45
+    size: 34422
+    cloud:
+      storage:
+        etag: 08dfc0f2928acf84031001
+        version_id: '1709159189618783'
+  - relpath: labels/train.cache
+    md5: 31705f4ae47d87939b659c0dc242c3a5
+    size: 33619
+    cloud:
+      storage:
+        etag: 088980c0928acf84031001
+        version_id: '1709159188791305'
+  - relpath: labels/train/0003_clip_frame0-00-00.00.txt
+    md5: 9934a67ebd7f114ed4036a9912addba8
+    size: 75
+    cloud:
+      storage:
+        etag: 08c5afe6928acf84031001
+        version_id: '1709159189419973'
+  - relpath: labels/train/0003_clip_frame0-00-02.00.txt
+    md5: 0df507c408a62f119e4eaa15b83d0214
+    size: 75
+    cloud:
+      storage:
+        etag: 08b5b0e6928acf84031001
+        version_id: '1709159189420085'
+  - relpath: labels/train/0003_clip_frame0-00-08.01.txt
+    md5: 82b02cd067c7cab6aaf3c9812846163c
+    size: 949
+    cloud:
+      storage:
+        etag: 089f8be7928acf84031001
+        version_id: '1709159189431711'
+  - relpath: labels/train/0003_clip_frame0-00-09.01.txt
+    md5: 13830fa2449557e1ffe3d4fa2f7aec3e
+    size: 911
+    cloud:
+      storage:
+        etag: 08a880e1928acf84031001
+        version_id: '1709159189332008'
+  - relpath: labels/train/0003_clip_frame0-00-10.01.txt
+    md5: 5e670756086f5c15c54922cce9eb674d
+    size: 873
+    cloud:
+      storage:
+        etag: 089cffdf928acf84031001
+        version_id: '1709159189315484'
+  - relpath: labels/train/0003_clip_frame0-00-11.01.txt
+    md5: e2ac438c8f9249805d10afdb540ae002
+    size: 797
+    cloud:
+      storage:
+        etag: 08cec9e7928acf84031001
+        version_id: '1709159189439694'
+  - relpath: labels/train/0003_clip_frame0-00-15.02.txt
+    md5: 221c979333b547df2622b69e0634652a
+    size: 987
+    cloud:
+      storage:
+        etag: 088de0c1928acf84031001
+        version_id: '1709159188819981'
+  - relpath: labels/train/0003_clip_frame0-00-17.02.txt
+    md5: 4105753f96b940ef643f837719b80b9c
+    size: 987
+    cloud:
+      storage:
+        etag: 08eee8e5928acf84031001
+        version_id: '1709159189410926'
+  - relpath: labels/train/0003_clip_frame0-00-18.02.txt
+    md5: 1710ea4613d77a330c92a029ca7b2800
+    size: 911
+    cloud:
+      storage:
+        etag: 08e387e6928acf84031001
+        version_id: '1709159189414883'
+  - relpath: labels/train/0003_clip_frame0-00-19.02.txt
+    md5: 51363bcfec940591b06b29998adc7d56
+    size: 949
+    cloud:
+      storage:
+        etag: 0892ebd4928acf84031001
+        version_id: '1709159189132690'
+  - relpath: labels/train/0003_clip_frame0-00-20.02.txt
+    md5: 08bfb74c7099f25a96e022cf9d66b5e8
+    size: 949
+    cloud:
+      storage:
+        etag: 08ad89d4928acf84031001
+        version_id: '1709159189120173'
+  - relpath: labels/train/0003_clip_frame0-00-23.02.txt
+    md5: dc04075daaf372c85590d59da0c00596
+    size: 1063
+    cloud:
+      storage:
+        etag: 08e682e7928acf84031001
+        version_id: '1709159189430630'
+  - relpath: labels/train/0003_clip_frame0-00-29.03.txt
+    md5: ae897ae02625ae22d3131b047f7cf35d
+    size: 949
+    cloud:
+      storage:
+        etag: 08fed6d4928acf84031001
+        version_id: '1709159189130110'
+  - relpath: labels/train/0003_clip_frame0-00-36.00.txt
+    md5: 0618bae6f37706bc40ba0c39d02d52ec
+    size: 1063
+    cloud:
+      storage:
+        etag: 08b787e6928acf84031001
+        version_id: '1709159189414839'
+  - relpath: labels/train/0003_clip_frame0-00-46.01.txt
+    md5: 1b585bf85edfe8fd195139139f31b6fe
+    size: 37
+    cloud:
+      storage:
+        etag: 08a48ad5928acf84031001
+        version_id: '1709159189136676'
+  - relpath: labels/train/0003_clip_frame0-00-53.02.txt
+    md5: 2626c10757467cae1f1ae0c8c8db0dbd
+    size: 227
+    cloud:
+      storage:
+        etag: 08e7e3dd928acf84031001
+        version_id: '1709159189279207'
+  - relpath: labels/train/0003_clip_frame0-00-56.02.txt
+    md5: cf837e4ccdfdffec0cd21bdd76f88bcf
+    size: 227
+    cloud:
+      storage:
+        etag: 08c0a9d5928acf84031001
+        version_id: '1709159189140672'
+  - relpath: labels/train/0003_clip_frame0-00-57.02.txt
+    md5: 6ba4e80a48cda4152d10f083258a4b6b
+    size: 189
+    cloud:
+      storage:
+        etag: 08f7d8d5928acf84031001
+        version_id: '1709159189146743'
+  - relpath: labels/train/0003_clip_frame0-00-58.02.txt
+    md5: bcafe2a36bf4738c4a9726507c03b0e8
+    size: 151
+    cloud:
+      storage:
+        etag: 08a2bfe6928acf84031001
+        version_id: '1709159189421986'
+  - relpath: labels/train/0003_clip_frame0-00-59.03.txt
+    md5: f01f8391dbd8b62df2416bc314ea2ff1
+    size: 151
+    cloud:
+      storage:
+        etag: 08fccfd4928acf84031001
+        version_id: '1709159189129212'
+  - relpath: labels/train/0004_clip_frame0-01-29.00.txt
+    md5: 5297016029e456c3b6f464ae2ea67185
+    size: 417
+    cloud:
+      storage:
+        etag: 08abf9d2928acf84031001
+        version_id: '1709159189101739'
+  - relpath: labels/train/0005_clip_frame0-00-00.00.txt
+    md5: 56829b74d4c271f87b107c578688d041
+    size: 455
+    cloud:
+      storage:
+        etag: 08c2eed3928acf84031001
+        version_id: '1709159189116738'
+  - relpath: labels/train/0005_clip_frame0-00-01.00.txt
+    md5: b83c1bb728b0388e069e4a8a4295b831
+    size: 75
+    cloud:
+      storage:
+        etag: 08b796e0928acf84031001
+        version_id: '1709159189318455'
+  - relpath: labels/train/0005_clip_frame0-00-03.00.txt
+    md5: b56794a0edfe44e418f4128103a1ad80
+    size: 417
+    cloud:
+      storage:
+        etag: 0884cce6928acf84031001
+        version_id: '1709159189423620'
+  - relpath: labels/train/0005_clip_frame0-00-05.00.txt
+    md5: c957b09db33b8f1363db16305a73112e
+    size: 417
+    cloud:
+      storage:
+        etag: 0899eae6928acf84031001
+        version_id: '1709159189427481'
+  - relpath: labels/train/0005_clip_frame0-00-07.00.txt
+    md5: 0963e21481f2b0c5e62e0be1a90946fe
+    size: 417
+    cloud:
+      storage:
+        etag: 08bafcd3928acf84031001
+        version_id: '1709159189118522'
+  - relpath: labels/train/0005_clip_frame0-00-08.00.txt
+    md5: cf9b7171d13b42e6b2a06c15190a2726
+    size: 417
+    cloud:
+      storage:
+        etag: 08cd8fe1928acf84031001
+        version_id: '1709159189333965'
+  - relpath: labels/train/0005_clip_frame0-00-11.00.txt
+    md5: cb362a5cbbc661478c6f07f388990db3
+    size: 379
+    cloud:
+      storage:
+        etag: 08e393e6928acf84031001
+        version_id: '1709159189416419'
+  - relpath: labels/train/0005_clip_frame0-00-12.00.txt
+    md5: c5cf51a27ef6f9772e36ad053c7bb88b
+    size: 379
+    cloud:
+      storage:
+        etag: 0899aae7928acf84031001
+        version_id: '1709159189435673'
+  - relpath: labels/train/0005_clip_frame0-00-14.00.txt
+    md5: 701ddb079ff440e37f5c4227ea75c6ff
+    size: 341
+    cloud:
+      storage:
+        etag: 08f4aed4928acf84031001
+        version_id: '1709159189124980'
+  - relpath: labels/train/0005_clip_frame0-00-15.00.txt
+    md5: f5fb66786460830a517e1495e79105be
+    size: 341
+    cloud:
+      storage:
+        etag: 08e0b0e6928acf84031001
+        version_id: '1709159189420128'
+  - relpath: labels/train/0005_clip_frame0-00-16.00.txt
+    md5: 43a6514965cc0e3eedf22b7ea3d22649
+    size: 379
+    cloud:
+      storage:
+        etag: 088cdad4928acf84031001
+        version_id: '1709159189130508'
+  - relpath: labels/train/0005_clip_frame0-00-17.00.txt
+    md5: 189a7bbc522cd08a6127f09845d03fb9
+    size: 303
+    cloud:
+      storage:
+        etag: 08add8dd928acf84031001
+        version_id: '1709159189277741'
+  - relpath: labels/train/0005_clip_frame0-00-19.00.txt
+    md5: 311e07f05c14820f1908ebd9f0d4223f
+    size: 303
+    cloud:
+      storage:
+        etag: 08bdfbd5928acf84031001
+        version_id: '1709159189151165'
+  - relpath: labels/train/0005_clip_frame0-00-20.00.txt
+    md5: f64a5faac18d616abc9cb6e739c61c36
+    size: 303
+    cloud:
+      storage:
+        etag: 08e59fdb928acf84031001
+        version_id: '1709159189237733'
+  - relpath: labels/train/0005_clip_frame0-00-25.00.txt
+    md5: 052e08bfa956fbd1847b15fa72fd48d7
+    size: 265
+    cloud:
+      storage:
+        etag: 089ca9e7928acf84031001
+        version_id: '1709159189435548'
+  - relpath: labels/train/0005_clip_frame0-00-26.00.txt
+    md5: c7106acfc062e0b8145efb9adf494ec4
+    size: 227
+    cloud:
+      storage:
+        etag: 08ed9ce7928acf84031001
+        version_id: '1709159189433965'
+  - relpath: labels/train/0005_clip_frame0-00-27.00.txt
+    md5: 69cabebc78fff76709e245874a86273d
+    size: 227
+    cloud:
+      storage:
+        etag: 08a082e7928acf84031001
+        version_id: '1709159189430560'
+  - relpath: labels/train/0005_clip_frame0-00-28.00.txt
+    md5: 52028aad02dbf10154f03a61947a1116
+    size: 189
+    cloud:
+      storage:
+        etag: 08bb9fe5928acf84031001
+        version_id: '1709159189401531'
+  - relpath: labels/train/0005_clip_frame0-00-29.00.txt
+    md5: 5c04bc5bedf0e3d909072cd0cd936950
+    size: 189
+    cloud:
+      storage:
+        etag: 08d9d7d3928acf84031001
+        version_id: '1709159189113817'
+  - relpath: labels/train/0010_clip_frame0-00-00.00.txt
+    md5: 9debacffb4d78da4c24358a523f7e46a
+    size: 113
+    cloud:
+      storage:
+        etag: 08cdc5da928acf84031001
+        version_id: '1709159189226189'
+  - relpath: labels/train/0010_clip_frame0-00-01.00.txt
+    md5: eaccda2d22145e223394c99383476bb3
+    size: 113
+    cloud:
+      storage:
+        etag: 08ea90e6928acf84031001
+        version_id: '1709159189416042'
+  - relpath: labels/train/0010_clip_frame0-00-02.00.txt
+    md5: 36a7c16396493471a42c316b5359b3b5
+    size: 113
+    cloud:
+      storage:
+        etag: 089d96dd928acf84031001
+        version_id: '1709159189269277'
+  - relpath: labels/train/0010_clip_frame0-00-03.00.txt
+    md5: 89abaace442c1d4de9288e2d9d875962
+    size: 113
+    cloud:
+      storage:
+        etag: 08d4e9d4928acf84031001
+        version_id: '1709159189132500'
+  - relpath: labels/train/0010_clip_frame0-00-04.00.txt
+    md5: f9710cbed80e4164a84648f199f2400b
+    size: 113
+    cloud:
+      storage:
+        etag: 08de8ed5928acf84031001
+        version_id: '1709159189137246'
+  - relpath: labels/train/0010_clip_frame0-00-05.51.txt
+    md5: 491721479dd3712a20618c8721f742de
+    size: 113
+    cloud:
+      storage:
+        etag: 08e3b6d4928acf84031001
+        version_id: '1709159189125987'
+  - relpath: labels/train/0010_clip_frame0-00-06.01.txt
+    md5: eec695d5f9c4c7db5de1dcb5b8b3bc5f
+    size: 113
+    cloud:
+      storage:
+        etag: 08af91e6928acf84031001
+        version_id: '1709159189416111'
+  - relpath: labels/train/0010_clip_frame0-00-06.51.txt
+    md5: 1dd249c8d24b08c7d2d34d597dc721a0
+    size: 113
+    cloud:
+      storage:
+        etag: 08d1e3e5928acf84031001
+        version_id: '1709159189410257'
+  - relpath: labels/train/0010_clip_frame0-00-07.51.txt
+    md5: eb8e319c16b1154679b4261af9050437
+    size: 113
+    cloud:
+      storage:
+        etag: 088088e6928acf84031001
+        version_id: '1709159189414912'
+  - relpath: labels/train/0016_clip_frame0-00-02.53.txt
+    md5: 7a9893b5f1c6817eeee7101b81c1efcf
+    size: 75
+    cloud:
+      storage:
+        etag: 0889a6d5928acf84031001
+        version_id: '1709159189140233'
+  - relpath: labels/train/0016_clip_frame0-00-03.53.txt
+    md5: 644ab9eefddc51025f419db94741af57
+    size: 75
+    cloud:
+      storage:
+        etag: 08a7d9d4928acf84031001
+        version_id: '1709159189130407'
+  - relpath: labels/train/0016_clip_frame0-00-04.00.txt
+    md5: 236dd58087805189d39f6d87999e9d24
+    size: 75
+    cloud:
+      storage:
+        etag: 08bee8e5928acf84031001
+        version_id: '1709159189410878'
+  - relpath: labels/train/0016_clip_frame0-00-04.53.txt
+    md5: 1376437126ea673ac5dee86843895046
+    size: 75
+    cloud:
+      storage:
+        etag: 0894e3c8928acf84031001
+        version_id: '1709159188935060'
+  - relpath: labels/train/0025_clip_frame0-00-00.00.txt
+    md5: 1a6fecf097f3b6bde94bd7e249e1cf2a
+    size: 455
+    cloud:
+      storage:
+        etag: 08a3fcda928acf84031001
+        version_id: '1709159189233187'
+  - relpath: labels/train/0025_clip_frame0-00-00.50.txt
+    md5: bbb10d4f222b6af3d9b3847887a3b24e
+    size: 455
+    cloud:
+      storage:
+        etag: 08e087e7928acf84031001
+        version_id: '1709159189431264'
+  - relpath: labels/train/0025_clip_frame0-00-01.00.txt
+    md5: 67d60701ee0f9f81635437925e88da72
+    size: 455
+    cloud:
+      storage:
+        etag: 08d0f8d3928acf84031001
+        version_id: '1709159189118032'
+  - relpath: labels/train/0025_clip_frame0-00-04.00.txt
+    md5: 4f340deac58dc8bb41791d9e09a008b0
+    size: 265
+    cloud:
+      storage:
+        etag: 08b1ded5928acf84031001
+        version_id: '1709159189147441'
+  - relpath: labels/train/0035_clip_frame0-00-00.00.txt
+    md5: afb0688c73f3fe3a8e4e556b31fcd328
+    size: 265
+    cloud:
+      storage:
+        etag: 08eeddd3928acf84031001
+        version_id: '1709159189114606'
+  - relpath: labels/train/0035_clip_frame0-00-00.53.txt
+    md5: 014751d7269265c9c30f99dd428bb190
+    size: 265
+    cloud:
+      storage:
+        etag: 08a4bfd4928acf84031001
+        version_id: '1709159189127076'
+  - relpath: labels/train/0035_clip_frame0-00-02.00.txt
+    md5: 95a5332d038e8eced02ac1ec1483a35c
+    size: 265
+    cloud:
+      storage:
+        etag: 0892b3d4928acf84031001
+        version_id: '1709159189125522'
+  - relpath: labels/train/0035_clip_frame0-00-03.00.txt
+    md5: 5116a6fde5b6405d09d2e91361d1d2e7
+    size: 265
+    cloud:
+      storage:
+        etag: 0893bac3928acf84031001
+        version_id: '1709159188847891'
+  - relpath: labels/train/0037_clip_frame0-00-00.00.txt
+    md5: 06c6213d441385d523f14b654dd6c390
+    size: 265
+    cloud:
+      storage:
+        etag: 08acb3d4928acf84031001
+        version_id: '1709159189125548'
+  - relpath: labels/train/0037_clip_frame0-00-03.53.txt
+    md5: 4b418835e82533c93cede9d37cebba17
+    size: 189
+    cloud:
+      storage:
+        etag: 08f4e7e8928acf84031001
+        version_id: '1709159189459956'
+  - relpath: labels/train/0037_clip_frame0-00-04.53.txt
+    md5: 871b55b2bf6eb8935af06a7b62558b98
+    size: 189
+    cloud:
+      storage:
+        etag: 08afedd4928acf84031001
+        version_id: '1709159189132975'
+  - relpath: labels/train/0037_clip_frame0-00-05.00.txt
+    md5: 25ea9d3d70378679ede871f4d52f7ef2
+    size: 189
+    cloud:
+      storage:
+        etag: 08dcedc2928acf84031001
+        version_id: '1709159188838108'
+  - relpath: labels/train/0037_clip_frame0-00-05.53.txt
+    md5: a8e7752a4fb75b8b6571f5d2baf33a08
+    size: 113
+    cloud:
+      storage:
+        etag: 08cffac2928acf84031001
+        version_id: '1709159188839759'
+  - relpath: labels/train/0037_clip_frame0-00-06.00.txt
+    md5: b580b7d0968bdfc59c9f401e25bac97f
+    size: 189
+    cloud:
+      storage:
+        etag: 089dcad5928acf84031001
+        version_id: '1709159189144861'
+  - relpath: labels/train/0037_clip_frame0-00-06.53.txt
+    md5: e4ac14d664f35fc8f2dee3b0f401a28c
+    size: 189
+    cloud:
+      storage:
+        etag: 08afe5e5928acf84031001
+        version_id: '1709159189410479'
+  - relpath: labels/train/0037_clip_frame0-00-07.00.txt
+    md5: ca9807836cb7bda2b50b086c9121c69e
+    size: 189
+    cloud:
+      storage:
+        etag: 08b687e6928acf84031001
+        version_id: '1709159189414838'
+  - relpath: labels/train/0037_clip_frame0-00-07.53.txt
+    md5: 764cc463563e239a993bc9ca1251a1aa
+    size: 189
+    cloud:
+      storage:
+        etag: 08ac93e1928acf84031001
+        version_id: '1709159189334444'
+  - relpath: labels/train/0037_clip_frame0-00-08.00.txt
+    md5: 4759086735c8c36c2195fb761d95bbf4
+    size: 189
+    cloud:
+      storage:
+        etag: 08d3d6d4928acf84031001
+        version_id: '1709159189130067'
+  - relpath: labels/train/0037_clip_frame0-00-08.53.txt
+    md5: 6442e8d20b5d081c9fc3ee9269239efd
+    size: 189
+    cloud:
+      storage:
+        etag: 08e1a7d5928acf84031001
+        version_id: '1709159189140449'
+  - relpath: labels/train/0037_clip_frame0-00-09.00.txt
+    md5: efff46f6d77e2993a4b2898f58858c9e
+    size: 189
+    cloud:
+      storage:
+        etag: 08e4a9d5928acf84031001
+        version_id: '1709159189140708'
+  - relpath: labels/train/0113_clip_frame0-00-00.00.txt
+    md5: 59c1d8e87c4521709d0de6d61a75b0c4
+    size: 113
+    cloud:
+      storage:
+        etag: 08db97d3928acf84031001
+        version_id: '1709159189105627'
+  - relpath: labels/train/0113_clip_frame0-00-00.53.txt
+    md5: c9578ed9573c6279dfd54afa1c4c497e
+    size: 113
+    cloud:
+      storage:
+        etag: 08d895e1928acf84031001
+        version_id: '1709159189334744'
+  - relpath: labels/train/0113_clip_frame0-00-01.00.txt
+    md5: c56da820af76e9b569a20077c839ec9f
+    size: 113
+    cloud:
+      storage:
+        etag: 08de8bd5928acf84031001
+        version_id: '1709159189136862'
+  - relpath: labels/train/0113_clip_frame0-00-04.53.txt
+    md5: f8787635e0e8731a558d0f18e29d482a
+    size: 113
+    cloud:
+      storage:
+        etag: 08ce8ee5928acf84031001
+        version_id: '1709159189399374'
+  - relpath: labels/train/0126_clip_frame0-00-03.50.txt
+    md5: ec10afa1f7f13f91e1e4500af279dcfb
+    size: 227
+    cloud:
+      storage:
+        etag: 0898bad4928acf84031001
+        version_id: '1709159189126424'
+  - relpath: labels/train/0126_clip_frame0-00-04.00.txt
+    md5: dfe18ea9541bfc691dbfd496be6d306a
+    size: 227
+    cloud:
+      storage:
+        etag: 08bfb6dd928acf84031001
+        version_id: '1709159189273407'
+  - relpath: labels/train/0126_clip_frame0-00-04.50.txt
+    md5: e5bd703e68686e7a81df51ec080c61ad
+    size: 227
+    cloud:
+      storage:
+        etag: 08c4c5c2928acf84031001
+        version_id: '1709159188832964'
+  - relpath: labels/val.cache
+    md5: 940f3dc134dc2781e772f518bf5d803c
+    size: 13628
+    cloud:
+      storage:
+        etag: 088ba7d4928acf84031001
+        version_id: '1709159189123979'
+  - relpath: labels/val/0003_clip_frame0-00-01.00.txt
+    md5: 08294b6ab4f9e103d7246ecb5c300dd6
+    size: 75
+    cloud:
+      storage:
+        etag: 08e7e6d3928acf84031001
+        version_id: '1709159189115751'
+  - relpath: labels/val/0003_clip_frame0-00-12.01.txt
+    md5: 315733221f1425011c83a0458d87abde
+    size: 797
+    cloud:
+      storage:
+        etag: 08cad0d4928acf84031001
+        version_id: '1709159189129290'
+  - relpath: labels/val/0003_clip_frame0-00-13.01.txt
+    md5: 33cd0958be15afb7f6d991f0a2a26c6a
+    size: 949
+    cloud:
+      storage:
+        etag: 08ffa8d4928acf84031001
+        version_id: '1709159189124223'
+  - relpath: labels/val/0003_clip_frame0-00-14.01.txt
+    md5: de765dd91b6aecebcd64c770eabcfe1d
+    size: 1025
+    cloud:
+      storage:
+        etag: 08bafdd2928acf84031001
+        version_id: '1709159189102266'
+  - relpath: labels/val/0003_clip_frame0-00-28.03.txt
+    md5: 61288b926824d4a7d8b11b7afb427b5e
+    size: 949
+    cloud:
+      storage:
+        etag: 08daedd4928acf84031001
+        version_id: '1709159189133018'
+  - relpath: labels/val/0003_clip_frame0-00-54.02.txt
+    md5: d132f28eb40a6c088bc25a342594e612
+    size: 227
+    cloud:
+      storage:
+        etag: 08c0bed4928acf84031001
+        version_id: '1709159189126976'
+  - relpath: labels/val/0004_clip_frame0-01-28.00.txt
+    md5: 2f89b943eca351b3a05c9ca5c7ea82df
+    size: 455
+    cloud:
+      storage:
+        etag: 088bb1d4928acf84031001
+        version_id: '1709159189125259'
+  - relpath: labels/val/0005_clip_frame0-00-02.00.txt
+    md5: 90fba3714eb88e7ee1e9b9bb53a93428
+    size: 417
+    cloud:
+      storage:
+        etag: 08e2d7d2928acf84031001
+        version_id: '1709159189097442'
+  - relpath: labels/val/0005_clip_frame0-00-04.00.txt
+    md5: 62caf006474ffa594d41c7e2d1e127a3
+    size: 417
+    cloud:
+      storage:
+        etag: 08cebbc3928acf84031001
+        version_id: '1709159188848078'
+  - relpath: labels/val/0005_clip_frame0-00-06.00.txt
+    md5: 8893ddae53d34a7d17b56b3a0a419d1e
+    size: 417
+    cloud:
+      storage:
+        etag: 088bb6c0928acf84031001
+        version_id: '1709159188798219'
+  - relpath: labels/val/0005_clip_frame0-00-09.00.txt
+    md5: a561e14ec4a59fc0da48b7089e720f1d
+    size: 379
+    cloud:
+      storage:
+        etag: 0895e6d4928acf84031001
+        version_id: '1709159189132053'
+  - relpath: labels/val/0005_clip_frame0-00-10.00.txt
+    md5: 22c8addf11cd6e5ca467797dc20bcfc7
+    size: 379
+    cloud:
+      storage:
+        etag: 08c1ddd4928acf84031001
+        version_id: '1709159189130945'
+  - relpath: labels/val/0005_clip_frame0-00-13.00.txt
+    md5: 36e73ed72d3a4b069241856829f78d26
+    size: 37
+    cloud:
+      storage:
+        etag: 08e5a3c2928acf84031001
+        version_id: '1709159188828645'
+  - relpath: labels/val/0005_clip_frame0-00-18.00.txt
+    md5: bf53e094d2ef4593a194092590663ae4
+    size: 303
+    cloud:
+      storage:
+        etag: 08bfe6d4928acf84031001
+        version_id: '1709159189132095'
+  - relpath: labels/val/0005_clip_frame0-00-21.00.txt
+    md5: 235daaad7313f1fccd419dbd4523c9a1
+    size: 265
+    cloud:
+      storage:
+        etag: 08c6a8d5928acf84031001
+        version_id: '1709159189140550'
+  - relpath: labels/val/0005_clip_frame0-00-22.00.txt
+    md5: 6b9a45f2e7249d55a1fa726d0caa2b23
+    size: 265
+    cloud:
+      storage:
+        etag: 08c0c2c4928acf84031001
+        version_id: '1709159188865344'
+  - relpath: labels/val/0005_clip_frame0-00-23.00.txt
+    md5: f734e337a653c6494475277f508d9e4c
+    size: 265
+    cloud:
+      storage:
+        etag: 088d93d4928acf84031001
+        version_id: '1709159189121421'
+  - relpath: labels/val/0005_clip_frame0-00-24.00.txt
+    md5: 05ff26aabdc4de505020cb67893a2355
+    size: 265
+    cloud:
+      storage:
+        etag: 08fe87d5928acf84031001
+        version_id: '1709159189136382'
+  - relpath: labels/val/0010_clip_frame0-00-00.50.txt
+    md5: 5ca7d8a352689a41495da972f80b344d
+    size: 113
+    cloud:
+      storage:
+        etag: 08dbe1d4928acf84031001
+        version_id: '1709159189131483'
+  - relpath: labels/val/0010_clip_frame0-00-01.50.txt
+    md5: 685a577202d514edace2c4c49462b698
+    size: 113
+    cloud:
+      storage:
+        etag: 08eebed3928acf84031001
+        version_id: '1709159189110638'
+  - relpath: labels/val/0010_clip_frame0-00-02.50.txt
+    md5: 600226c850bbae08bb8677801eb5038c
+    size: 113
+    cloud:
+      storage:
+        etag: 08c5c2d5928acf84031001
+        version_id: '1709159189143877'
+  - relpath: labels/val/0010_clip_frame0-00-03.50.txt
+    md5: d4200a95eff5d7f1fc55db9548a975c7
+    size: 113
+    cloud:
+      storage:
+        etag: 08d7b6d3928acf84031001
+        version_id: '1709159189109591'
+  - relpath: labels/val/0010_clip_frame0-00-04.50.txt
+    md5: e9eb3f8a94b77de37fcb2af10f010dda
+    size: 113
+    cloud:
+      storage:
+        etag: 08c69bd5928acf84031001
+        version_id: '1709159189138886'
+  - relpath: labels/val/0010_clip_frame0-00-05.00.txt
+    md5: 9683cacd758c81c0ea493ff187e04790
+    size: 113
+    cloud:
+      storage:
+        etag: 08bc8bd4928acf84031001
+        version_id: '1709159189120444'
+  - relpath: labels/val/0010_clip_frame0-00-07.01.txt
+    md5: 4934f3267e566195fb05654b66bcca46
+    size: 113
+    cloud:
+      storage:
+        etag: 08a2a0d3928acf84031001
+        version_id: '1709159189106722'
+  - relpath: labels/val/0010_clip_frame0-00-08.01.txt
+    md5: 54018f0b707f6c03136eb703a89d6e54
+    size: 113
+    cloud:
+      storage:
+        etag: 08b4f8c1928acf84031001
+        version_id: '1709159188823092'
+  - relpath: labels/val/0016_clip_frame0-00-03.00.txt
+    md5: 972ac62a152d95df230378ba174aac09
+    size: 75
+    cloud:
+      storage:
+        etag: 08eb81d6928acf84031001
+        version_id: '1709159189151979'
+  - relpath: labels/val/0016_clip_frame0-00-05.00.txt
+    md5: 123460045cc1bf941e35ec5e338bb620
+    size: 75
+    cloud:
+      storage:
+        etag: 088197d3928acf84031001
+        version_id: '1709159189105537'
+  - relpath: labels/val/0025_clip_frame0-00-04.50.txt
+    md5: cc65a8369eb57fff31acf0ac32393227
+    size: 265
+    cloud:
+      storage:
+        etag: 0893e2d2928acf84031001
+        version_id: '1709159189098771'
+  - relpath: labels/val/0035_clip_frame0-00-01.00.txt
+    md5: e7defa01e4ae7d94410e6409d1535856
+    size: 265
+    cloud:
+      storage:
+        etag: 089ca1c3928acf84031001
+        version_id: '1709159188844700'
+  - relpath: labels/val/0035_clip_frame0-00-01.53.txt
+    md5: 21c1fd5c8c3e438caa76cabe34072ded
+    size: 265
+    cloud:
+      storage:
+        etag: 08b7d8d2928acf84031001
+        version_id: '1709159189097527'
+  - relpath: labels/val/0035_clip_frame0-00-02.53.txt
+    md5: 5a0c296231fa0b4543986dc9c56b05b7
+    size: 265
+    cloud:
+      storage:
+        etag: 0890cfd2928acf84031001
+        version_id: '1709159189096336'
+  - relpath: labels/val/0035_clip_frame0-00-09.53.txt
+    md5: 71627261b4b30fd683cec160a76ea458
+    size: 227
+    cloud:
+      storage:
+        etag: 08d296d3928acf84031001
+        version_id: '1709159189105490'
+  - relpath: labels/val/0113_clip_frame0-00-01.53.txt
+    md5: ccbc693ca6c1cb424e00afbc0a0af31f
+    size: 113
+    cloud:
+      storage:
+        etag: 08e2a7d5928acf84031001
+        version_id: '1709159189140450'
+  - relpath: labels/val/0126_clip_frame0-00-05.51.txt
+    md5: ee7955b62e59cc0065c46d99f163300b
+    size: 265
+    cloud:
+      storage:
+        etag: 08e1fcd2928acf84031001
+        version_id: '1709159189102177'
